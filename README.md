@@ -1,9 +1,13 @@
 # E-vote-system
 
 Project Name : E - Vote System
+
 Base : HTML, CSS, PHP & MYSQL
+
 Role : Frontend
+
 Team Count : 05
+
 Project Description:
 
 The project provides a software platform that allows groups to securely conduct votes and elections. In
