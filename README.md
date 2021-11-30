@@ -1,6 +1,6 @@
 # E-vote-system
 
-Project Name : E - Vote System.
+Project Name : E - Vote System
 Base : HTML, CSS, PHP & MYSQL
 Role : Frontend
 Team Count : 05
